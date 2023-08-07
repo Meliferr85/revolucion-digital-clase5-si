@@ -1,0 +1,123 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.Pie-de-Pagina{
+    background-color: grey;
+    font-weight: bold;
+    width: 100%;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    text-decoration-line: none;
+    margin-top: auto;
+}
+
+.navegador {
+    background-color: cyan;
+    text-align: center;
+    padding-left: 335px;
+}
+.title {
+    background-color: fuchsia;
+    font-family: sans-serif;
+    width: 100%;
+    text-align: center;text-align: center;
+}
+.subtitulo {
+    background-color: fuchsia;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+    }
+.Post-Subtitulo {
+    background-color: fuchsia;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+    padding-top: 10px;
+    text-align: center
+   }
+.List-Links {
+    display: flex;
+    gap: 50px;
+    list-style-type: none;
+    font-size: large;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.dia-uno {
+    font-weight: bold;
+    color: aquamarine;
+    font-size: x-large;
+}
+.horario-uno {
+    font-style: italic;
+    color:aquamarine;
+}
+.sin-horario {
+    font-style: italic;
+    font-weight: bold;
+    color: red;
+}
+.dia-dos {
+    font-weight: bold;
+    color: yellowgreen;
+    font-size: x-large;
+}
+.horario-dos {
+    font-style: italic;
+    color: yellowgreen;
+}
+.dia-tres {
+    font-weight: bold;
+    color: orangered;
+    font-size: x-large;
+}
+.horario-tres {
+    font-style: italic;
+    color: orangered;
+}
+.dia-cuatro {
+    font-weight: bold;
+    color: blue;
+    font-size: x-large;
+}
+.horario-cuatro {
+    font-style: italic;
+    color: blue;
+}
+.dia-finde {
+    font-weight: bold;
+    color: red ;
+    font-size: x-large;
+}
+.horario-finde {
+    font-style: italic;
+    color: red;
+}
+.dias {
+    color: fuchsia;
+    font-weight: bolder;
+    font-weight: bold;
+}
+.horario {
+    color: fuchsia;
+    font-style: italic;
+    font-weight: bold;
+    text-underline-position: auto;
+}
+.main .section-principal {
+    border-color: blueviolet;
+    width: 300px;
+    background-color: violet;
+    background-position: center;
+    border-color: 5px dotted crimson;
+    margin-top: 20px;
+    background-position: center;
+    border: 10px solid fuchsia;
+    margin-left: 500px;
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-image: url("../Stitch\ Rosa.jpg")
+    }
